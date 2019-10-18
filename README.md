@@ -6,3 +6,7 @@ Project to create a portfolio using AWS and ReactJS.
 
 Git and Github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
